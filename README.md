@@ -80,7 +80,7 @@ Use the [assessment rubric](docs/ASSESSMENT.md) at every gate. **Never move on w
 ## Repository map
 
 - [`AGENTS.md`](AGENTS.md) — global rules for any coding agent operating here.
-- [`SKILLS.md`](SKILLS.md) — human-readable index of repeatable agent workflows; **not automatically loaded as an agent skill**.
+- [Skill index](.agents/skills/SKILLS.md) — human-readable catalog of repeatable agent workflows; **not automatically loaded as an agent skill**.
 - [`.agents/skills/`](.agents/skills/) — actual reusable `SKILL.md` files for Codex and compatible tools.
 - [`docs/LLM_WORKFLOW.md`](docs/LLM_WORKFLOW.md) — learning and AI code-generation methodology.
 - [`docs/ASSESSMENT.md`](docs/ASSESSMENT.md) — rubric, evidence packs and technical defenses.
@@ -99,7 +99,7 @@ Use the [assessment rubric](docs/ASSESSMENT.md) at every gate. **Never move on w
 ```bash
 # After extracting the archive:
 cd ai-assisted-software-engineering-mastery
-# Read README.md, AGENTS.md and SKILLS.md
+# Read README.md, AGENTS.md and .agents/skills/SKILLS.md
 # Open projects/01-logforge/
 # Ask your agent: "Perform G0 and G1 for LogForge. Treat architecture.md as
 # a hypothesis. Do not generate implementation until I approve acceptance criteria."

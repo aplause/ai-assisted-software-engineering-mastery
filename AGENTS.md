@@ -57,4 +57,4 @@ Group findings by `Critical`, `High`, `Medium`, `Low`. For every finding give a 
 
 ## Using skills
 
-Read the index in `SKILLS.md`. Actual agent instructions live in `.agents/skills/<skill-name>/SKILL.md`. When the task matches a specific skill, use that procedure instead of inventing an ad hoc workflow.
+Read the index in `.agents/skills/SKILLS.md`. Actual agent instructions live in `.agents/skills/<skill-name>/SKILL.md`. When the task matches a specific skill, use that procedure instead of inventing an ad hoc workflow.

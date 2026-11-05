@@ -119,4 +119,4 @@ A partitioned stale worker cannot commit; jobs resume after leader death; repeat
 - Undocumented assumptions that “this cannot happen in production.”
 - Huge, unreviewable pull requests generated in one prompt.
 
-**Related documents:** [`README.md`](README.md), [`AGENTS.md`](AGENTS.md), [`../../AGENTS.md`](../../AGENTS.md), [`../../SKILLS.md`](../../SKILLS.md).
+**Related documents:** [`README.md`](README.md), [`AGENTS.md`](AGENTS.md), [`../../AGENTS.md`](../../AGENTS.md), [Skill index](../../.agents/skills/SKILLS.md).
